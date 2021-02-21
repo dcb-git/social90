@@ -1,0 +1,16 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+    padding: 40px;
+
+}
+
+form .sendBtn button{
+    background: #51aeb7;
+    color: black;
+    width: 120px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid white;
+}
+

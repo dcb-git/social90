@@ -1,0 +1,20 @@
+.item {
+    color: #030303;
+}
+
+.postsBlock {
+    padding: 40px;
+}
+
+.postTextarea {
+    margin-bottom: 40px;
+}
+
+.addBtn button {
+    background: #51aeb7;
+    color: black;
+    width: 120px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid white;
+}

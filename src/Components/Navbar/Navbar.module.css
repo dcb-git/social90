@@ -1,0 +1,48 @@
+.nav {
+    grid-area: n;
+    background-color: #26a6d6;
+
+}
+
+.item {
+    font-size: 21px;
+    padding-left: 20px;
+    color: white;
+}
+.item:first-child {
+    padding-top: 20px;
+}
+
+.item a {
+    color: white;
+    text-decoration: none;
+}
+
+.item a.activeLink {
+    color: #304447;
+}
+
+.friendsItem {
+    font-size: 30px;
+    padding-top: 50px;
+}
+
+.friendsElement {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    align-items: start;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+.friendsImg {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.friendsBlock {
+
+
+}
